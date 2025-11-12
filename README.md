@@ -1,6 +1,6 @@
 ### 📘 `README.md`
 
-````markdown
+
 # 🧠 Data Structures Notes
 
 A fast, minimal, and Markdown-powered website for learning and documenting **Data Structures**, built using [VitePress](https://vitepress.dev/).
