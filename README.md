@@ -15,7 +15,7 @@ A fast, minimal, and Markdown-powered website for learning and documenting **Dat
 ## 📂 Project Structure
 
 ```text
-data-structures-notes/
+Vite-Notes/
 ├── docs/
 │   ├── .vitepress/
 │   │   └── config.mjs           # Main VitePress configuration
@@ -49,7 +49,7 @@ To start a local development server:
 npm run docs:dev
 ```
 
-Open your browser and visit [http://localhost:5173](http://localhost:5173).
+Open your browser and visit [http://localhost:4000](http://localhost:4000).
 
 VitePress will automatically reload when you edit Markdown files.
 
@@ -105,15 +105,15 @@ export default {
 
 To add a new concept (e.g., **Stacks**):
 
-1. Create a new Markdown file under `docs/data-structures/`:
+1. Create a new Markdown file under `docs`:
 
    ```bash
-   docs/data-structures/stacks.md
+   docs/stacks.md
    ```
 2. Add a sidebar entry in `config.mjs`:
 
    ```js
-   { text: 'Stacks', link: '/data-structures/stacks' }
+   { text: 'Stacks', link: '/stacks' }
    ```
 
 That’s it! The page will automatically appear in the sidebar and navigation.
