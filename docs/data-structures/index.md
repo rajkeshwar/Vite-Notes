@@ -3,7 +3,6 @@
 Data structures are fundamental building blocks in computer science.  
 They define **how data is stored, organized, and accessed efficiently** to perform operations such as insertion, deletion, searching, and sorting.
 
----
 
 ## 🧠 What Is a Data Structure?
 
@@ -14,8 +13,6 @@ For example:
 - Arrays provide fast random access but fixed size.
 - Linked Lists offer dynamic resizing but slower lookups.
 - Trees and Graphs efficiently model hierarchical or networked data.
-
----
 
 ## ⚙️ Classification of Data Structures
 
@@ -45,7 +42,6 @@ Elements are connected in a hierarchical or networked manner.
 - **Trees**  
 - **Graphs**
 
----
 
 ## 🧩 Why Learn Data Structures?
 
@@ -55,8 +51,6 @@ Elements are connected in a hierarchical or networked manner.
 | **Scalability** | Makes software handle large data gracefully. |
 | **Reusability** | Many programming libraries and frameworks are built on reusable data structure patterns. |
 | **Interview Readiness** | Mastering data structures is crucial for technical interviews. |
-
----
 
 ## 🧭 Learning Roadmap
 
@@ -68,8 +62,6 @@ Here’s the recommended order to learn from this section:
 
 > 📘 More structures like Stacks, Queues, and Graphs will be added later!
 
----
-
 ## 🧮 Example: Choosing the Right Data Structure
 
 | Problem | Recommended Data Structure |
@@ -80,15 +72,11 @@ Here’s the recommended order to learn from this section:
 | Process elements FIFO | Queue |
 | Undo/Redo feature | Stack |
 
----
-
 ## 📚 References
 
 - *Introduction to Algorithms* — Cormen, Leiserson, Rivest, Stein  
 - *Data Structures and Algorithms in JavaScript* — Michael McMillan  
 - [GeeksforGeeks: Data Structures](https://www.geeksforgeeks.org/data-structures/)  
 - [Visualgo](https://visualgo.net/en) (Interactive visualizations)
-
----
 
 > 💡 **Tip:** A good grasp of data structures helps you write cleaner, faster, and more maintainable code — no matter what language or framework you use.

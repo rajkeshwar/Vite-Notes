@@ -2,15 +2,13 @@
 
 A fast, minimal, and Markdown-powered website for learning and documenting **Data Structures**, built using [VitePress](https://vitepress.dev/).
 
-
 ## 🚀 Features
 
-- 📝 Write and organize notes in Markdown  
-- ⚡️ Built with **VitePress** for speed and simplicity  
-- 📚 Structured content for Data Structures concepts  
-- 🧭 Configurable navigation and sidebar  
-- 💻 Easy local development and deployment  
-
+- 📝 Write and organize notes in Markdown
+- ⚡️ Built with **VitePress** for speed and simplicity
+- 📚 Structured content for Data Structures concepts
+- 🧭 Configurable navigation and sidebar
+- 💻 Easy local development and deployment
 
 ## 📂 Project Structure
 
@@ -27,7 +25,7 @@ Vite-Notes/
 │       └── trees.md             # Trees concept
 ├── package.json
 └── README.md
-````
+```
 
 ## ⚙️ Installation
 
@@ -81,24 +79,24 @@ Example:
 export default {
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Data Structures', link: '/data-structures/' },
+      { text: "Home", link: "/" },
+      { text: "Data Structures", link: "/data-structures/" },
     ],
     sidebar: {
-      '/data-structures/': [
+      "/data-structures/": [
         {
-          text: 'Data Structures',
+          text: "Data Structures",
           items: [
-            { text: 'Introduction', link: '/data-structures/' },
-            { text: 'Arrays', link: '/data-structures/arrays' },
-            { text: 'Linked Lists', link: '/data-structures/linked-lists' },
-            { text: 'Trees', link: '/data-structures/trees' },
-          ]
-        }
-      ]
-    }
-  }
-}
+            { text: "Introduction", link: "/data-structures/" },
+            { text: "Arrays", link: "/data-structures/arrays" },
+            { text: "Linked Lists", link: "/data-structures/linked-lists" },
+            { text: "Trees", link: "/data-structures/trees" },
+          ],
+        },
+      ],
+    },
+  },
+};
 ```
 
 ## 🧱 Add New Topics
@@ -110,6 +108,7 @@ To add a new concept (e.g., **Stacks**):
    ```bash
    docs/stacks.md
    ```
+
 2. Add a sidebar entry in `config.mjs`:
 
    ```js
@@ -122,9 +121,9 @@ That’s it! The page will automatically appear in the sidebar and navigation.
 
 VitePress generates a static site that can be deployed to any static host:
 
-* [GitHub Pages](https://vitepress.dev/guide/deploy#github-pages)
-* [Netlify](https://vitepress.dev/guide/deploy#netlify)
-* [Vercel](https://vitepress.dev/guide/deploy#vercel)
+- [GitHub Pages](https://vitepress.dev/guide/deploy#github-pages)
+- [Netlify](https://vitepress.dev/guide/deploy#netlify)
+- [Vercel](https://vitepress.dev/guide/deploy#vercel)
 
 Example for GitHub Pages:
 
