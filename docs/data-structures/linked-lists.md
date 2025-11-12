@@ -1,12 +1,8 @@
-### 📘 `linked-lists.md`
-
-````markdown
 # Linked List
 
 A **Linked List** is a linear data structure where elements (called *nodes*) are connected using pointers.  
 Unlike arrays, linked lists do not store elements in contiguous memory locations.
 
----
 
 ## 🧩 Structure of a Node
 
@@ -22,8 +18,6 @@ class Node {
   }
 }
 ````
-
----
 
 ## 🪢 Example: Singly Linked List Implementation
 
@@ -64,8 +58,6 @@ list.append(30);
 list.print(); // Output: 10 -> 20 -> 30
 ```
 
----
-
 ## 🔁 Types of Linked Lists
 
 | Type                     | Description                                       |
@@ -73,8 +65,6 @@ list.print(); // Output: 10 -> 20 -> 30
 | **Singly Linked List**   | Each node points to the next node.                |
 | **Doubly Linked List**   | Each node points to both next and previous nodes. |
 | **Circular Linked List** | The last node points back to the head node.       |
-
----
 
 ## 📊 Advantages
 
@@ -85,8 +75,6 @@ list.print(); // Output: 10 -> 20 -> 30
 
 ❌ Random access is not possible
 ❌ Extra memory required for pointers
-
----
 
 ## 🧠 Common Operations
 
