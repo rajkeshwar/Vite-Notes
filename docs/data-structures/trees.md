@@ -1,11 +1,6 @@
-### 🌳 `trees.md`
-
-```markdown
 # Trees
 
 A **Tree** is a hierarchical data structure consisting of nodes, where each node has a parent (except the root) and zero or more children.
-
----
 
 ## 🌱 Basic Terminology
 
@@ -16,8 +11,6 @@ A **Tree** is a hierarchical data structure consisting of nodes, where each node
 | **Child** | A node directly connected to another node when moving away from the root |
 | **Leaf** | A node with no children |
 | **Height** | The length of the longest path from the root to a leaf |
-
----
 
 ## 🌲 Binary Tree
 
@@ -73,8 +66,6 @@ tree.insert(30);
 tree.inorder(); // Output: 20 10 30
 ````
 
----
-
 ## 🌿 Types of Trees
 
 | Type                         | Description                                                                |
@@ -85,7 +76,6 @@ tree.inorder(); // Output: 20 10 30
 | **AVL Tree**                 | Self-balancing BST with height balance condition.                          |
 | **N-ary Tree**               | A node can have up to N children.                                          |
 
----
 
 ## ⚙️ Traversal Methods
 
@@ -94,8 +84,6 @@ tree.inorder(); // Output: 20 10 30
 3. **Postorder (Left → Right → Root)**
 4. **Level Order (Breadth-First Traversal)**
 
----
-
 ## 🧠 Use Cases
 
 * Hierarchical data (file systems, org charts)
@@ -103,7 +91,6 @@ tree.inorder(); // Output: 20 10 30
 * Database indexing (B-Trees)
 * AI algorithms (decision trees, minimax trees)
 
----
 
 ## 📈 Time Complexity
 
