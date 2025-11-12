@@ -1,11 +1,7 @@
-### 📘 `README.md`
-
-
-# 🧠 Data Structures Notes
+# 🧠 Vite Notes
 
 A fast, minimal, and Markdown-powered website for learning and documenting **Data Structures**, built using [VitePress](https://vitepress.dev/).
 
----
 
 ## 🚀 Features
 
@@ -15,7 +11,6 @@ A fast, minimal, and Markdown-powered website for learning and documenting **Dat
 - 🧭 Configurable navigation and sidebar  
 - 💻 Easy local development and deployment  
 
----
 
 ## 📂 Project Structure
 
@@ -34,8 +29,6 @@ data-structures-notes/
 └── README.md
 ````
 
----
-
 ## ⚙️ Installation
 
 ```bash
@@ -48,8 +41,6 @@ cd data-structures-notes
 npm install
 ```
 
----
-
 ## 🧩 Development
 
 To start a local development server:
@@ -61,8 +52,6 @@ npm run docs:dev
 Open your browser and visit [http://localhost:5173](http://localhost:5173).
 
 VitePress will automatically reload when you edit Markdown files.
-
----
 
 ## 🏗️ Build for Production
 
@@ -77,8 +66,6 @@ To preview your built site locally:
 ```bash
 npm run docs:preview
 ```
-
----
 
 ## 🧭 Navigation Setup
 
@@ -114,8 +101,6 @@ export default {
 }
 ```
 
----
-
 ## 🧱 Add New Topics
 
 To add a new concept (e.g., **Stacks**):
@@ -133,8 +118,6 @@ To add a new concept (e.g., **Stacks**):
 
 That’s it! The page will automatically appear in the sidebar and navigation.
 
----
-
 ## 🌐 Deployment
 
 VitePress generates a static site that can be deployed to any static host:
@@ -149,18 +132,3 @@ Example for GitHub Pages:
 npm run docs:build
 npx gh-pages -d docs/.vitepress/dist
 ```
-
----
-
-## 🧠 Description
-
-> A fast and minimal **notes website** for learning and documenting Data Structures — built using **VitePress**.
-
----
-
-## 👨‍💻 Author
-
-**Rajkeshwar Prasad**
-🔗 [GitHub](https://github.com/rajkeshwar) • [LinkedIn](https://www.linkedin.com/in/rajkeshwar)
-
----
