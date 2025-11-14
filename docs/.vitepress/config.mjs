@@ -55,6 +55,15 @@ const vitepressConfig = defineConfig({
           { text: "Kubernetes", link: "/container/kubernetes.md" },
         ],
       },
+      {
+        text: "AI / ML",
+        collapsed: true,
+        items: [
+          { text: "Introduction", link: "/ai-ml/index.md" },
+          { text: "Machine Learning", link: "/ai-ml/Machine-Learning.md" },
+          { text: "Deep Learning", link: "/ai-ml/Deep-Learning.md" },
+        ],
+      },
     ],
 
     socialLinks: [
