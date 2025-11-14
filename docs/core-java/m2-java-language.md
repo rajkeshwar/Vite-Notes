@@ -1,4 +1,4 @@
-## 🧭 Module 2 – Java Language
+# 🧭 Module 2 – Java Language
 
 **Author:** *Srinivas Dande*
 **Source:** *Java Learning Center – Study Guide*

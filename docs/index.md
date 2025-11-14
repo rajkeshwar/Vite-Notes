@@ -8,11 +8,18 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Core Java
+      link: /core-java
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Python
+      link: /python
+    - theme: alt
+      text: Container
+      link: /container/docker.md
+    - theme: alt
+      text: Data Structures
+      link: /data-structures
+    
 
 features:
   - title: Feature A
