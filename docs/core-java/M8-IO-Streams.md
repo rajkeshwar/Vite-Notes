@@ -1748,15 +1748,3 @@ try (FileOutputStream fos = new FileOutputStream("mycustomers3.txt");
 | **Default** | Implement `Serializable` | All fields serialized | Simple objects, no sensitive data |
 | **transient** | Mark specific fields | Exclude specific fields | Some sensitive/temporary fields |
 | **Externalization** | Implement `Externalizable` | Complete control | Complex custom serialization logic |
-
-### Related Topics
-
-- [Serialization Basics](./serialization.md)
-- [Externalization](./externalization.md)
-- [Serialization and Inheritance](./serialization-inheritance.md)
-
----
-
-::: info Next Example
-Continue to [Lab828 - Externalization](./lab828.md) to learn about custom serialization control.
-:::
