@@ -6,5 +6,10 @@
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.12"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0",
+    "mermaid": "^11.12.1",
+    "vitepress-plugin-mermaid": "^2.0.17"
   }
 }
