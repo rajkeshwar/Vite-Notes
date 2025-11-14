@@ -42,9 +42,7 @@ const vitepressConfig = defineConfig({
         collapsed: true,
         items: [
           { text: "Introduction", link: "/data-structures/" },
-          { text: "Arrays", link: "/data-structures/arrays" },
-          { text: "Linked Lists", link: "/data-structures/linked-lists" },
-          { text: "Trees", link: "/data-structures/trees" },
+          { text: "Leet Code", link: "/data-structures/leet-code" },
         ],
       },
       {
