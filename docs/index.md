@@ -17,6 +17,9 @@ hero:
       text: Container
       link: /container/docker.md
     - theme: alt
+      text: AI / ML
+      link: /ai-ml/Machine-Learning.md
+    - theme: alt
       text: Data Structures
       link: /data-structures
     
