@@ -75,6 +75,16 @@ const vitepressConfig = defineConfig({
           { text: "Frontend", link: "/system-design/frontend.md" },
         ],
       },
+      {
+        text: "German A1",
+        collapsed: true,
+        items: [
+          { text: "A1 Letters", link: "/german/" },
+          { text: "A1 Letters 1", link: "/german/A1-Letters-1.md" },
+          { text: "A1 Letters 2", link: "/german/A1-Letters-2.md" },
+          { text: "A1 Letters 3", link: "/german/A1-Letters-3.md" },
+        ],
+      },
     ],
 
     socialLinks: [
