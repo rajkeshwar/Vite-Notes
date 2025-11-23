@@ -1,10 +1,10 @@
-# **🟦 INFORMAL LETTERS / EMAILS (10)**
+## **🟦 INFORMAL LETTERS / EMAILS (10)**
 
 *(to friends, classmates, family)*
 
 ---
 
-### **1. Einladung zum Geburtstag**
+## **1. Einladung zum Geburtstag**
 
 Liebe Anna,
 ich habe am Samstag Geburtstag. Ich feiere um 16 Uhr bei mir zu Hause.
@@ -14,7 +14,7 @@ Maria
 
 ---
 
-### **2. Absage zur Einladung**
+## **2. Absage zur Einladung**
 
 Hallo Tim,
 danke für deine Einladung! Leider kann ich am Freitag nicht kommen.
@@ -24,7 +24,7 @@ Jonas
 
 ---
 
-### **3. Nachricht: Ich komme später**
+## **3. Nachricht: Ich komme später**
 
 Hallo Laura,
 ich komme heute 20 Minuten später. Der Bus hat Verspätung.
@@ -34,7 +34,7 @@ Elif
 
 ---
 
-### **4. Ich bin krank**
+## **4. Ich bin krank**
 
 Liebe Sara,
 ich kann heute nicht zur Schule kommen. Ich habe Fieber.
@@ -44,7 +44,7 @@ Mira
 
 ---
 
-### **5. Einladung ins Kino**
+## **5. Einladung ins Kino**
 
 Hallo Paul,
 möchtest du am Samstag ins Kino gehen? Der Film beginnt um 18 Uhr.
@@ -54,7 +54,7 @@ Hadi
 
 ---
 
-### **6. Danke-Brief**
+## **6. Danke-Brief**
 
 Liebe Oma,
 vielen Dank für das Geschenk! Ich freue mich sehr darüber.
@@ -64,7 +64,7 @@ Lina
 
 ---
 
-### **7. Bitte um Hilfe**
+## **7. Bitte um Hilfe**
 
 Hallo Max,
 kannst du mir heute mit den Hausaufgaben helfen?
@@ -75,7 +75,7 @@ Ali
 
 ---
 
-### **8. Besuch am Wochenende**
+## **8. Besuch am Wochenende**
 
 Liebe Mia,
 hast du am Wochenende Zeit? Ich möchte dich besuchen.
@@ -85,7 +85,7 @@ Nina
 
 ---
 
-### **9. Urlaubspostkarte (informell)**
+## **9. Urlaubspostkarte (informell)**
 
 Hallo Tom,
 ich bin in Italien. Das Wetter ist super und das Essen ist lecker.
@@ -95,7 +95,7 @@ Ben
 
 ---
 
-### **10. Neuer Zeitplan**
+## **10. Neuer Zeitplan**
 
 Hallo Lea,
 unser Treffen ist jetzt um 17 Uhr, nicht um 16 Uhr.
@@ -107,13 +107,13 @@ Jule
 
 ---
 
-# **🟩 FORMAL LETTERS / EMAILS (10)**
+## **🟩 FORMAL LETTERS / EMAILS (10)**
 
 *(to offices, schools, landlords, customer service, hotels)*
 
 ---
 
-### **11. Termin beim Arzt**
+## **11. Termin beim Arzt**
 
 Sehr geehrte Damen und Herren,
 ich brauche einen Termin beim Arzt. Haben Sie nächste Woche Zeit?
@@ -123,7 +123,7 @@ Fatma Kaya
 
 ---
 
-### **12. Anfrage an das Hotel**
+## **12. Anfrage an das Hotel**
 
 Sehr geehrte Damen und Herren,
 ich möchte ein Zimmer für zwei Nächte buchen.
@@ -133,7 +133,7 @@ Marco Rossi
 
 ---
 
-### **13. Beschwerde: Paket nicht angekommen**
+## **13. Beschwerde: Paket nicht angekommen**
 
 Sehr geehrte Damen und Herren,
 mein Paket ist noch nicht angekommen.
@@ -144,7 +144,7 @@ Elena Müller
 
 ---
 
-### **14. Entschuldigung: Termin verpasst**
+## **14. Entschuldigung: Termin verpasst**
 
 Sehr geehrte Frau Schneider,
 es tut mir leid, ich habe den Termin gestern verpasst.
@@ -154,7 +154,7 @@ Yusuf Demir
 
 ---
 
-### **15. Anfrage für einen Deutschkurs**
+## **15. Anfrage für einen Deutschkurs**
 
 Sehr geehrte Damen und Herren,
 ich interessiere mich für den Deutschkurs A1.
@@ -164,7 +164,7 @@ Kenji Sato
 
 ---
 
-### **16. Kündigung eines Abos**
+## **16. Kündigung eines Abos**
 
 Sehr geehrte Damen und Herren,
 hiermit kündige ich mein Abonnement zum nächsten Monat.
@@ -174,7 +174,7 @@ Hanna Braun
 
 ---
 
-### **17. Bitte um Informationen (Schule)**
+## **17. Bitte um Informationen (Schule)**
 
 Sehr geehrte Damen und Herren,
 ich möchte Informationen über die Anmeldung an Ihrer Schule.
@@ -184,7 +184,7 @@ Rashid Ali
 
 ---
 
-### **18. Reparaturmeldung an den Vermieter**
+## **18. Reparaturmeldung an den Vermieter**
 
 Sehr geehrter Herr Weber,
 in meiner Wohnung funktioniert die Heizung nicht.
@@ -194,7 +194,7 @@ Olga Novak
 
 ---
 
-### **19. Anfrage wegen Arbeitszeiten**
+## **19. Anfrage wegen Arbeitszeiten**
 
 Sehr geehrte Frau Klein,
 können Sie mir bitte meinen Arbeitsplan für nächste Woche schicken?
