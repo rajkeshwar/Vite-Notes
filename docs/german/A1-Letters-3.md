@@ -8,8 +8,6 @@ Bitte schreib mir zurück.
 Liebe Grüße
 Maria
 
----
-
 ## ✅ **2. Termin absagen**
 
 Sehr geehrte Damen und Herren,
@@ -19,8 +17,6 @@ Kann ich bitte einen neuen Termin nächste Woche bekommen?
 Entschuldigen Sie bitte.
 Mit freundlichen Grüßen
 Ali Kaya
-
----
 
 ## ✅ **3. Deutschkurs – Informationen**
 
@@ -32,8 +28,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Sara Müller
 
----
-
 ## ✅ **4. Arbeitszeiten**
 
 Sehr geehrte Frau Klein,
@@ -43,8 +37,6 @@ Vielen Dank für Ihre Hilfe.
 Mit freundlichen Grüßen
 Pedro Santos
 
----
-
 ## ✅ **5. Einladung ins Café**
 
 Hallo Emma,
@@ -53,8 +45,6 @@ Wollen wir um 15 Uhr im Café Aroma einen Kaffee trinken?
 Sag mir bitte Bescheid.
 Liebe Grüße
 Nina
-
----
 
 ## ✅ **6. Paket nicht angekommen**
 
@@ -66,8 +56,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Yunus Demir
 
----
-
 ## ✅ **7. Wohnung – Problem**
 
 Sehr geehrter Herr Weber,
@@ -78,8 +66,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Olga Braun
 
----
-
 ## ✅ **8. Sie sind krank**
 
 Hallo Frau Berger,
@@ -87,8 +73,6 @@ ich bin heute krank und kann leider nicht zur Arbeit kommen.
 Ich bleibe zu Hause und komme morgen wieder.
 Entschuldigung und viele Grüße
 Marko
-
----
 
 ## ✅ **9. Besuch bei Freunden**
 
@@ -100,8 +84,6 @@ Sag mir bitte Bescheid.
 Viele Grüße
 Anna
 
----
-
 ## ✅ **10. Reservierung im Restaurant**
 
 Sehr geehrte Damen und Herren,
@@ -112,8 +94,6 @@ Vielen Dank!
 Mit freundlichen Grüßen
 Hala Ibrahim
 
----
-
 ## ✅ **11. Urlaub – Postkarte**
 
 Hallo Tom,
@@ -122,8 +102,6 @@ Das Wetter ist sehr warm und sonnig.
 Ich gehe jeden Tag ans Meer und esse viel Paella.
 Viele Grüße
 Ben
-
----
 
 ## ✅ **12. Informationen zu einem Sportkurs**
 
@@ -135,8 +113,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Lea Wolf
 
----
-
 ## ✅ **13. Einladung zum Spaziergang**
 
 Hallo Mia,
@@ -146,8 +122,6 @@ Vielleicht eine Stunde?
 Sag mir bitte Bescheid.
 LG
 Sara
-
----
 
 ## ✅ **14. Beschwerde im Hotel**
 
@@ -159,8 +133,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Omar Karim
 
----
-
 ## ✅ **15. Haushaltsnotiz**
 
 Hallo Lisa,
@@ -169,8 +141,6 @@ Ich bin um 18 Uhr wieder zu Hause.
 Kannst du bitte Wasser kochen?
 Danke!
 Tina
-
----
 
 ## ✅ **16. Zug verpasst**
 
@@ -182,8 +152,6 @@ Bis später.
 LG
 Jonas
 
----
-
 ## ✅ **17. Einladung zum Sport**
 
 Hallo Lea,
@@ -193,8 +161,6 @@ Wir können uns um 11 Uhr treffen.
 Sag mir bitte Bescheid.
 Viele Grüße
 Mira
-
----
 
 ## ✅ **18. Geschenk kaufen**
 
@@ -206,8 +172,6 @@ Bitte senden Sie mir Informationen.
 Mit freundlichen Grüßen
 Dina Rossi
 
----
-
 ## ✅ **19. Hilfe beim Umzug**
 
 Hallo Paul,
@@ -217,8 +181,6 @@ Ich freue mich, wenn du kommst.
 Danke!
 Viele Grüße
 Ali
-
----
 
 ## ✅ **20. Arzttermin – neuer Termin**
 
