@@ -1,4 +1,4 @@
-# ✅ **1. Einladung (Birthday Invitation)**
+## ✅ **1. Einladung (Birthday Invitation)**
 
 Liebe Laura,
 ich habe am Samstag Geburtstag und möchte dich einladen.
@@ -10,7 +10,7 @@ Maria
 
 ---
 
-# ✅ **2. Termin absagen**
+## ✅ **2. Termin absagen**
 
 Sehr geehrte Damen und Herren,
 leider kann ich morgen nicht zum Termin kommen.
@@ -22,7 +22,7 @@ Ali Kaya
 
 ---
 
-# ✅ **3. Deutschkurs – Informationen**
+## ✅ **3. Deutschkurs – Informationen**
 
 Sehr geehrte Damen und Herren,
 ich interessiere mich für den Deutschkurs A1.
@@ -34,7 +34,7 @@ Sara Müller
 
 ---
 
-# ✅ **4. Arbeitszeiten**
+## ✅ **4. Arbeitszeiten**
 
 Sehr geehrte Frau Klein,
 können Sie mir bitte meinen Arbeitsplan für nächste Woche schicken?
@@ -45,7 +45,7 @@ Pedro Santos
 
 ---
 
-# ✅ **5. Einladung ins Café**
+## ✅ **5. Einladung ins Café**
 
 Hallo Emma,
 hast du am Freitag Zeit?
@@ -56,7 +56,7 @@ Nina
 
 ---
 
-# ✅ **6. Paket nicht angekommen**
+## ✅ **6. Paket nicht angekommen**
 
 Sehr geehrte Damen und Herren,
 ich habe am 2. Mai ein Paket bestellt, aber es ist noch nicht angekommen.
@@ -68,7 +68,7 @@ Yunus Demir
 
 ---
 
-# ✅ **7. Wohnung – Problem**
+## ✅ **7. Wohnung – Problem**
 
 Sehr geehrter Herr Weber,
 in meiner Wohnung ist die Heizung kaputt.
@@ -80,7 +80,7 @@ Olga Braun
 
 ---
 
-# ✅ **8. Sie sind krank**
+## ✅ **8. Sie sind krank**
 
 Hallo Frau Berger,
 ich bin heute krank und kann leider nicht zur Arbeit kommen.
@@ -90,7 +90,7 @@ Marko
 
 ---
 
-# ✅ **9. Besuch bei Freunden**
+## ✅ **9. Besuch bei Freunden**
 
 Hallo Tim,
 kann ich dich am Samstag besuchen?
@@ -102,7 +102,7 @@ Anna
 
 ---
 
-# ✅ **10. Reservierung im Restaurant**
+## ✅ **10. Reservierung im Restaurant**
 
 Sehr geehrte Damen und Herren,
 ich möchte einen Tisch für vier Personen reservieren.
@@ -114,7 +114,7 @@ Hala Ibrahim
 
 ---
 
-# ✅ **11. Urlaub – Postkarte**
+## ✅ **11. Urlaub – Postkarte**
 
 Hallo Tom,
 ich bin in Spanien im Urlaub.
@@ -125,7 +125,7 @@ Ben
 
 ---
 
-# ✅ **12. Informationen zu einem Sportkurs**
+## ✅ **12. Informationen zu einem Sportkurs**
 
 Sehr geehrte Damen und Herren,
 ich möchte Informationen über Ihren Yoga-Kurs.
@@ -137,7 +137,7 @@ Lea Wolf
 
 ---
 
-# ✅ **13. Einladung zum Spaziergang**
+## ✅ **13. Einladung zum Spaziergang**
 
 Hallo Mia,
 hast du morgen Zeit für einen Spaziergang?
@@ -149,7 +149,7 @@ Sara
 
 ---
 
-# ✅ **14. Beschwerde im Hotel**
+## ✅ **14. Beschwerde im Hotel**
 
 Sehr geehrte Damen und Herren,
 in meinem Zimmer ist es sehr laut und die Klimaanlage funktioniert nicht.
@@ -161,7 +161,7 @@ Omar Karim
 
 ---
 
-# ✅ **15. Haushaltsnotiz**
+## ✅ **15. Haushaltsnotiz**
 
 Hallo Lisa,
 ich bin im Supermarkt und kaufe Lebensmittel.
@@ -172,7 +172,7 @@ Tina
 
 ---
 
-# ✅ **16. Zug verpasst**
+## ✅ **16. Zug verpasst**
 
 Hallo Max,
 ich komme später, weil ich meinen Zug verpasst habe.
@@ -184,7 +184,7 @@ Jonas
 
 ---
 
-# ✅ **17. Einladung zum Sport**
+## ✅ **17. Einladung zum Sport**
 
 Hallo Lea,
 hast du am Sonntag Zeit?
@@ -196,7 +196,7 @@ Mira
 
 ---
 
-# ✅ **18. Geschenk kaufen**
+## ✅ **18. Geschenk kaufen**
 
 Sehr geehrte Damen und Herren,
 ich suche ein Geschenk für meine Freundin.
@@ -208,7 +208,7 @@ Dina Rossi
 
 ---
 
-# ✅ **19. Hilfe beim Umzug**
+## ✅ **19. Hilfe beim Umzug**
 
 Hallo Paul,
 kannst du mir am Samstag beim Umzug helfen?
@@ -220,7 +220,7 @@ Ali
 
 ---
 
-# ✅ **20. Arzttermin – neuer Termin**
+## ✅ **20. Arzttermin – neuer Termin**
 
 Sehr geehrte Damen und Herren,
 mein Termin am 8. Mai passt leider nicht.

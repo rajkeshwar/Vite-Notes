@@ -1,4 +1,4 @@
-### **20. Bitte um Entschuldigung (Schule)**
+## **20. Bitte um Entschuldigung (Schule)**
 
 Sehr geehrte Frau Bauer,
 mein Sohn kann heute nicht zur Schule kommen.
@@ -8,9 +8,9 @@ Maria Lopez
 
 ---
 
-# **🟦 INFORMAL LETTERS (10)**
+## **🟦 INFORMAL LETTERS (10)**
 
-### **1. Einladung zum Mittagessen**
+## **1. Einladung zum Mittagessen**
 
 Hallo Emma,
 möchtest du morgen mit mir Mittag essen?
@@ -20,7 +20,7 @@ Sofia
 
 ---
 
-### **2. Entschuldigung für Verspätung**
+## **2. Entschuldigung für Verspätung**
 
 Hallo Leo,
 es tut mir leid, dass ich gestern zu spät war.
@@ -30,7 +30,7 @@ Dara
 
 ---
 
-### **3. Danke für die Hilfe**
+## **3. Danke für die Hilfe**
 
 Liebe Anna,
 vielen Dank für deine Hilfe gestern!
@@ -40,7 +40,7 @@ Mira
 
 ---
 
-### **4. Besuch am Sonntag**
+## **4. Besuch am Sonntag**
 
 Hallo Jonas,
 kann ich dich am Sonntag besuchen?
@@ -50,7 +50,7 @@ Selin
 
 ---
 
-### **5. Einladung zum Spaziergang**
+## **5. Einladung zum Spaziergang**
 
 Hallo Mia,
 das Wetter ist schön. Hast du Zeit für einen Spaziergang?
@@ -60,7 +60,7 @@ Hadi
 
 ---
 
-### **6. Bitte um Rückruf**
+## **6. Bitte um Rückruf**
 
 Hallo David,
 kannst du mich bitte zurückrufen?
@@ -71,7 +71,7 @@ Nico
 
 ---
 
-### **7. Nachricht: Ich komme nicht**
+## **7. Nachricht: Ich komme nicht**
 
 Liebe Lara,
 ich kann heute leider nicht kommen.
@@ -81,7 +81,7 @@ Aylin
 
 ---
 
-### **8. Neue Handynummer**
+## **8. Neue Handynummer**
 
 Hallo Paul,
 ich habe eine neue Handynummer: 0176 555 234.
@@ -91,7 +91,7 @@ Rami
 
 ---
 
-### **9. Einladung zum Lernen**
+## **9. Einladung zum Lernen**
 
 Hallo Lisa,
 sollen wir morgen zusammen für den Test lernen?
@@ -101,7 +101,7 @@ Markus
 
 ---
 
-### **10. Bitte um ein Treffen**
+## **10. Bitte um ein Treffen**
 
 Hallo Eva,
 kannst du dich diese Woche mit mir treffen?
@@ -115,7 +115,7 @@ Tina
 
 # **🟩 FORMAL LETTERS (10)**
 
-### **11. E-Mail an die Bank: Termin**
+## **11. E-Mail an die Bank: Termin**
 
 Sehr geehrte Damen und Herren,
 ich brauche einen Termin in der Bank.
@@ -125,7 +125,7 @@ Samuel Ortiz
 
 ---
 
-### **12. Anfrage an den Supermarkt**
+## **12. Anfrage an den Supermarkt**
 
 Sehr geehrte Damen und Herren,
 verkaufen Sie auch glutenfreie Produkte?
@@ -135,7 +135,7 @@ Nina Pohl
 
 ---
 
-### **13. Bitte um Bescheinigung**
+## **13. Bitte um Bescheinigung**
 
 Sehr geehrte Frau Wagner,
 können Sie mir bitte eine Teilnahmebestätigung schicken?
@@ -145,7 +145,7 @@ Ali Karimi
 
 ---
 
-### **14. Reparatur: Licht kaputt**
+## **14. Reparatur: Licht kaputt**
 
 Sehr geehrter Herr Schulz,
 in meinem Bad funktioniert das Licht nicht.
@@ -155,7 +155,7 @@ Julia Steiner
 
 ---
 
-### **15. Anfrage: Öffnungszeiten**
+## **15. Anfrage: Öffnungszeiten**
 
 Sehr geehrte Damen und Herren,
 können Sie mir bitte Ihre Öffnungszeiten für Samstag sagen?
@@ -165,7 +165,7 @@ Emir Yildiz
 
 ---
 
-### **16. Beschwerde: Lieferung zu spät**
+## **16. Beschwerde: Lieferung zu spät**
 
 Sehr geehrte Damen und Herren,
 meine Lieferung ist sehr spät gekommen.
@@ -176,7 +176,7 @@ Helena Graf
 
 ---
 
-### **17. Bitte um Informationen zum Kurs**
+## **17. Bitte um Informationen zum Kurs**
 
 Sehr geehrte Damen und Herren,
 ich möchte Informationen über den A2-Kurs.
@@ -186,7 +186,7 @@ Omar Haddad
 
 ---
 
-### **18. Krankmeldung (Arbeit)**
+## **18. Krankmeldung (Arbeit)**
 
 Sehr geehrte Frau Klein,
 ich bin heute krank und kann nicht arbeiten.
@@ -196,7 +196,7 @@ Sara Mert
 
 ---
 
-### **19. Kündigung der Mitgliedschaft**
+## **19. Kündigung der Mitgliedschaft**
 
 Sehr geehrte Damen und Herren,
 ich kündige meine Mitgliedschaft zum 30. April.
@@ -206,7 +206,7 @@ Kevin Berger
 
 ---
 
-### **20. Anfrage an die Bibliothek**
+## **20. Anfrage an die Bibliothek**
 
 Sehr geehrte Damen und Herren,
 ich möchte ein Buch verlängern.
