@@ -2,8 +2,6 @@
 
 *(to friends, classmates, family)*
 
----
-
 ## **1. Einladung zum Geburtstag**
 
 Liebe Anna,
@@ -11,8 +9,6 @@ ich habe am Samstag Geburtstag. Ich feiere um 16 Uhr bei mir zu Hause.
 Kannst du kommen?
 Liebe Grüße
 Maria
-
----
 
 ## **2. Absage zur Einladung**
 
@@ -22,8 +18,6 @@ Ich muss arbeiten.
 Viele Grüße
 Jonas
 
----
-
 ## **3. Nachricht: Ich komme später**
 
 Hallo Laura,
@@ -31,8 +25,6 @@ ich komme heute 20 Minuten später. Der Bus hat Verspätung.
 Bis gleich!
 LG
 Elif
-
----
 
 ## **4. Ich bin krank**
 
@@ -42,8 +34,6 @@ Wir sehen uns morgen.
 Liebe Grüße
 Mira
 
----
-
 ## **5. Einladung ins Kino**
 
 Hallo Paul,
@@ -52,8 +42,6 @@ Sag bitte Bescheid!
 Viele Grüße
 Hadi
 
----
-
 ## **6. Danke-Brief**
 
 Liebe Oma,
@@ -61,8 +49,6 @@ vielen Dank für das Geschenk! Ich freue mich sehr darüber.
 Ich besuche dich bald.
 Liebe Grüße
 Lina
-
----
 
 ## **7. Bitte um Hilfe**
 
@@ -73,8 +59,6 @@ Danke!
 LG
 Ali
 
----
-
 ## **8. Besuch am Wochenende**
 
 Liebe Mia,
@@ -82,8 +66,6 @@ hast du am Wochenende Zeit? Ich möchte dich besuchen.
 Wir können Kaffee trinken.
 Liebe Grüße
 Nina
-
----
 
 ## **9. Urlaubspostkarte (informell)**
 
@@ -93,8 +75,6 @@ Ich mache viele Fotos.
 Viele Grüße
 Ben
 
----
-
 ## **10. Neuer Zeitplan**
 
 Hallo Lea,
@@ -103,15 +83,9 @@ Ist das okay für dich?
 LG
 Jule
 
----
-
----
-
 ## **🟩 FORMAL LETTERS / EMAILS (10)**
 
 *(to offices, schools, landlords, customer service, hotels)*
-
----
 
 ## **11. Termin beim Arzt**
 
@@ -121,8 +95,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Fatma Kaya
 
----
-
 ## **12. Anfrage an das Hotel**
 
 Sehr geehrte Damen und Herren,
@@ -130,8 +102,6 @@ ich möchte ein Zimmer für zwei Nächte buchen.
 Haben Sie ein Einzelzimmer frei?
 Mit freundlichen Grüßen
 Marco Rossi
-
----
 
 ## **13. Beschwerde: Paket nicht angekommen**
 
@@ -142,8 +112,6 @@ Vielen Dank.
 Mit freundlichen Grüßen
 Elena Müller
 
----
-
 ## **14. Entschuldigung: Termin verpasst**
 
 Sehr geehrte Frau Schneider,
@@ -151,8 +119,6 @@ es tut mir leid, ich habe den Termin gestern verpasst.
 Kann ich einen neuen Termin bekommen?
 Mit freundlichen Grüßen
 Yusuf Demir
-
----
 
 ## **15. Anfrage für einen Deutschkurs**
 
@@ -162,8 +128,6 @@ Können Sie mir bitte Informationen schicken?
 Mit freundlichen Grüßen
 Kenji Sato
 
----
-
 ## **16. Kündigung eines Abos**
 
 Sehr geehrte Damen und Herren,
@@ -171,8 +135,6 @@ hiermit kündige ich mein Abonnement zum nächsten Monat.
 Bitte bestätigen Sie die Kündigung.
 Mit freundlichen Grüßen
 Hanna Braun
-
----
 
 ## **17. Bitte um Informationen (Schule)**
 
@@ -182,8 +144,6 @@ Können Sie mir bitte Details senden?
 Mit freundlichen Grüßen
 Rashid Ali
 
----
-
 ## **18. Reparaturmeldung an den Vermieter**
 
 Sehr geehrter Herr Weber,
@@ -192,8 +152,6 @@ Können Sie bitte jemanden schicken?
 Mit freundlichen Grüßen
 Olga Novak
 
----
-
 ## **19. Anfrage wegen Arbeitszeiten**
 
 Sehr geehrte Frau Klein,
@@ -201,6 +159,4 @@ können Sie mir bitte meinen Arbeitsplan für nächste Woche schicken?
 Vielen Dank.
 Mit freundlichen Grüßen
 Pedro Silva
-
----
 
