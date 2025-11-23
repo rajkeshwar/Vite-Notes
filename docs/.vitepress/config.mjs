@@ -35,7 +35,10 @@ const vitepressConfig = defineConfig({
       {
         text: "Python",
         collapsed: true,
-        items: [{ text: "Introduction", link: "/python/" }],
+        items: [
+          { text: "Introduction", link: "/python/" },
+          { text: "Core Python", link: "/python/core-python" },
+        ],
       },
       {
         text: "Data Structures",
@@ -43,6 +46,7 @@ const vitepressConfig = defineConfig({
         items: [
           { text: "Introduction", link: "/data-structures/" },
           { text: "Leet Code", link: "/data-structures/leet-code" },
+          { text: "Test", link: "/data-structures/test" },
         ],
       },
       {
@@ -60,6 +64,15 @@ const vitepressConfig = defineConfig({
           { text: "Introduction", link: "/ai-ml/index.md" },
           { text: "Machine Learning", link: "/ai-ml/Machine-Learning.md" },
           { text: "Deep Learning", link: "/ai-ml/Deep-Learning.md" },
+        ],
+      },
+      {
+        text: "System Design",
+        collapsed: true,
+        items: [
+          { text: "Introduction", link: "/system-design/" },
+          { text: "Backend", link: "/system-design/backend.md" },
+          { text: "Frontend", link: "/system-design/frontend.md" },
         ],
       },
     ],
