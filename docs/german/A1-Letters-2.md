@@ -1,11 +1,3 @@
-## **20. Bitte um Entschuldigung (Schule)**
-
-Sehr geehrte Frau Bauer,
-mein Sohn kann heute nicht zur Schule kommen.
-Er ist krank.
-Mit freundlichen Grüßen
-Maria Lopez
-
 ## **🟦 INFORMAL LETTERS (10)**
 
 ## **1. Einladung zum Mittagessen**
