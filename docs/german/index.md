@@ -317,5 +317,94 @@ Repeat these every day:
 * 50–100 basic nouns + gender
 * W-Fragen
 * Email phrases for Schreiben
+Here is your **A1 German Article Cheat Sheet** — simple, compact, and perfect for quick revision.
+
+---
+
+# 🇩🇪 **A1 German Articles — Cheat Sheet**
+
+## **1. Bestimmte Artikel (Definite – “the”)**
+
+| **Case**      | **Masculine** | **Feminine** | **Neuter** | **Plural**              |
+| ------------- | ------------- | ------------ | ---------- | ----------------------- |
+| **Nominativ** | **der**       | **die**      | **das**    | **die**                 |
+| **Akkusativ** | **den**       | **die**      | **das**    | **die**                 |
+| **Dativ**     | **dem**       | **der**      | **dem**    | **den** *(+ n on noun)* |
+
+---
+
+## **2. Unbestimmte Artikel (Indefinite – “a / an”)**
+
+| **Case**      | **Masculine** | **Feminine** | **Neuter** | **Plural** |
+| ------------- | ------------- | ------------ | ---------- | ---------- |
+| **Nominativ** | **ein**       | **eine**     | **ein**    | —          |
+| **Akkusativ** | **einen**     | **eine**     | **ein**    | —          |
+| **Dativ**     | **einem**     | **einer**    | **einem**  | —          |
+
+---
+
+## **3. Case Questions (very important!)**
+
+* **Nominativ:** Wer? / Was?
+* **Akkusativ:** Wen? / Was?
+* **Dativ:** Wem?
+
+---
+
+## **4. Typical A1 Verbs by Case**
+
+### **Akkusativ verbs** (always take a direct object)
+
+sehen, haben, kaufen, nehmen, finden, mögen
+
+Example:
+
+* Ich sehe **den Hund**.
+
+### **Dativ verbs** (usually take an indirect object)
+
+helfen, danken, gefallen, gehören
+
+Example:
+
+* Ich helfe **dem Mann**.
+
+### **“Two-object verbs” (Dativ + Akkusativ)**
+
+geben, zeigen, schicken, bringen, erklären
+
+Example:
+
+* Ich gebe **dem Mann** (Dativ) **ein Buch** (Akkusativ).
+
+---
+
+## **5. Noun Ending in Dativ Plural**
+
+Always add **-n** if possible:
+
+* den Kinder**n**
+* den Freunde**n**
+* den Leute**n**
+
+---
+
+## **6. Super Short Memory Tricks**
+
+### 🔵 **DER → DEN** (Akkusativ)
+
+Only masculine changes in Akkusativ.
+
+### 🟢 **DER → DEM** (Dativ)
+
+Masculine + neuter become **dem**.
+
+### 🟣 **Dative = MR, MN**
+
+* Masculine = **dem**
+* Feminine = **der**
+* Neuter = **dem**
+* Plural = **den**
+
 
 
